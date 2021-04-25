@@ -15,34 +15,17 @@
     <div id="all">
         <div class="wrapper">
             <div class="main">
-				<h1>地址发布页：联系QQ12345678</h1>
+				<h1>地址发布页：联系QQ981851151</h1>
 				<div class="content">
 					<div class="content-top">				
 							<h2>请 Ctrl+D 收藏本页到浏览器收藏夹</h2>
 							<ul>
-								<li>
-									懒人源码（主用）
-									<a href="https://www.lanrenzhijia.com/" target="_blank"><i>https://www.lanrenzhijia.com</i></a>
-									
-								</li>
-								<li>
-									新版懒人源码（备用）
-									<a href="http://www.lanrenzhijia.com/" target="_blank"><i>http://www.lanrenzhijia.com</i></a>
-									
-								</li>
-								<li>
-									某宝找优惠券网（买省）
-									<a href="http://www.lanrenzhijia.com/" target="_blank"><i>http://www.lanrenzhijia.com/</i></a>
-									
-								</li>
+							
 								<li>
 									地址发布页（收藏）
-									<a href="http://www.lanrenzhijia.com" target="_blank"><i>https://www.lanrenzhijia.com</i></a>
+									<a href="https://zmbm.github.io/" target="_blank"><i>https://www.zhaimaobm.com</i></a>
 								</li>
-																<li>
-									安卓APP客户端下载（推荐）
-									<a href="http://www.lanrenzhijia.com/" target="_blank"><i>点击下载</i></a>
-								</li>
+																
 								<li>
                                 <span>近期部分国产浏览器屏蔽网址，电脑请安装<a href="https://www.google.cn/chrome/" target="_blank">chrome浏览器</a>访问，手机请安装<a href="#" target="_blank">X浏览器</a>访问。<span>
 							</span></span></li></ul>
