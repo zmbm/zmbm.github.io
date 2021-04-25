@@ -15,7 +15,6 @@
     <div id="all">
         <div class="wrapper">
             <div class="main">
-				<h1>宅猫本猫</h1>
 				<h1>地址发布页:QQ981851151</h1>
 				<div class="content">
 					<div class="content-top">				
