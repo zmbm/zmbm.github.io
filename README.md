@@ -15,7 +15,7 @@
     <div id="all">
         <div class="wrapper">
             <div class="main">
-				<h1>地址发布页:QQ981851151</h1>
+				<h1>地址发布页QQ：981851151</h1>
 				<div class="content">
 					<div class="content-top">				
 							<h2>请 Ctrl+D 收藏本页到浏览器收藏夹</h2>
