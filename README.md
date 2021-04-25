@@ -23,7 +23,7 @@
 							
 								<li>
 									地址发布页（收藏）
-									<a href="https://zmbm.github.io/" target="_blank"><i>https://www.zhaimaobm.com</i></a>
+									<a href="https://zhaimaobm.com/" target="_blank"><i>https://www.zhaimaobm.com</i></a>
 								</li>
 																
 								<li>
