@@ -23,11 +23,11 @@
 							
 								<li>
 									地址发布页（收藏）
-									<a href="https://zhaimaobm.com/" target="_blank"><i>https://www.zhaimaobm.com</i></a>
+									<a href="www.zhaimaobm.com/" target="_blank"><i>www.zhaimaobm.com</i></a>
 								</li>
 																
 								<li>
-                                <span>近期部分国产浏览器屏蔽网址，电脑请安装<a href="https://www.google.cn/chrome/" target="_blank">chrome浏览器</a>访问，手机请安装<a href="#" target="_blank">X浏览器</a>访问。<span>
+                                <span>近期部分国产浏览器屏蔽网址，电脑请安装<a href="https://www.google.cn/chrome/" target="_blank">chrome浏览器</a>访问，手机请不要用QQ浏览器访问。<span>
 							</span></span></li></ul>
 
 							
