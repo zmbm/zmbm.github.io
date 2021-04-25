@@ -23,7 +23,7 @@
 							
 								<li>
 									地址发布页（收藏）
-									<a href="https://www.zhaimaobm.com/" target="_blank"><i>www.zhaimaobm.com</i></a>
+									<a href="http://www.zhaimaobm.com/" target="_blank"><i>www.zhaimaobm.com</i></a>
 								</li>
 																
 								<li>
