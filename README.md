@@ -15,7 +15,8 @@
     <div id="all">
         <div class="wrapper">
             <div class="main">
-				<h1>地址发布页：联系QQ981851151</h1>
+				<h1>宅猫本猫</h1>
+				<h1>地址发布页:QQ981851151</h1>
 				<div class="content">
 					<div class="content-top">				
 							<h2>请 Ctrl+D 收藏本页到浏览器收藏夹</h2>
@@ -27,7 +28,7 @@
 								</li>
 																
 								<li>
-                                <span>近期部分国产浏览器屏蔽网址，电脑请安装<a href="https://www.google.cn/chrome/" target="_blank">chrome浏览器</a>访问，手机请不要用QQ浏览器访问。<span>
+                                <span>近期部分浏览器屏蔽网址，电脑请安装<a href="https://www.google.cn/chrome/" target="_blank">chrome浏览器</a>访问，手机请不要用QQ浏览器访问。<span>
 							</span></span></li></ul>
 
 							
